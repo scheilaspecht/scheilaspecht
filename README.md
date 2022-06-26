@@ -1,7 +1,7 @@
 
 # Sobre mim
 -  :books: Atualmente, sou professora de Pensamento Computacional, Projeto de Vida e Arte.
--  :email: Meu e-mail de contato é [email](scheila.specht@escola.pr.gov.br).
+-  :email: Meu e-mail de contato é scheila.specht@escola.pr.gov.br.
 
 # Estou aprendendo
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
